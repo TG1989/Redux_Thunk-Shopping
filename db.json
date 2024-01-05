@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone",
+      "brand": "XYZ",
+      "model": "A1",
+      "price": 1500,
+      "stock": 50,
+      "color": "black",
+      "features": [
+        "4G LTE",
+        "64 GB Memory",
+        "5.5 inc screen"
+      ],
+      "picture": "https://picsum.photos/201"
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "brand": "ABC",
+      "model": "B2",
+      "price": 1400,
+      "stock": 50,
+      "color": "black",
+      "features": [
+        "4G LTE",
+        "32 GB Memory",
+        "5 inc screen"
+      ],
+      "picture": "https://picsum.photos/202"
+    },
+    {
+      "id": 3,
+      "title": "Smartphone",
+      "brand": "ABC",
+      "model": "C1",
+      "price": 1800,
+      "stock": 30,
+      "color": "gold",
+      "features": [
+        "4G LTE",
+        "64 GB Memory",
+        "6 inc screen"
+      ],
+      "picture": "https://picsum.photos/203"
+    },
+    {
+      "id": 4,
+      "title": "Smartphone",
+      "brand": "SMK",
+      "model": "A2",
+      "price": 1900,
+      "stock": 20,
+      "color": "blue",
+      "features": [
+        "4G LTE",
+        "64 GB Memory",
+        "5.5 inc screen"
+      ],
+      "picture": "https://picsum.photos/204"
+    },
+    {
+      "id": 5,
+      "title": "Smartphone",
+      "brand": "SMK",
+      "model": "B1",
+      "price": 1200,
+      "stock": 60,
+      "color": "white",
+      "features": [
+        "4G LTE",
+        "32 GB Memory",
+        "5.5 inc screen"
+      ],
+      "picture": "https://picsum.photos/205"
+    },
+    {
+      "id": 6,
+      "title": "Smartphone",
+      "brand": "KLM",
+      "model": "A2",
+      "price": 2000,
+      "stock": 45,
+      "color": "black",
+      "features": [
+        "4G LTE",
+        "64 GB Memory",
+        "5.5 inc screen"
+      ],
+      "picture": "https://picsum.photos/206"
+    }
+  ],
+  "cart": []
+}
